@@ -38,8 +38,7 @@ Function Get-ListeningTCPConnections
 			$OutputObj | Add-Member -MemberType NoteProperty -Name "ListeningPort" -Value $Connection.Port
 			$OutputObj | Add-Member -MemberType NoteProperty -Name "IPV4Or6" -Value $IPType
 			$OutputObj
-		}
-		
+		}		
 	}
 	Catch
 	{
