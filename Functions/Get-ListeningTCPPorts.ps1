@@ -1,18 +1,4 @@
-﻿<#	
-	.NOTES
-	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2019 v5.6.156
-	 Created on:   	1/9/2019 11:15 AM
-	 Created by:   	abranham
-	 Organization: 	
-	 Filename:     	
-	===========================================================================
-	.DESCRIPTION
-		A description of the file.
-#>
-
-
-Function Get-ListeningTCPConnections
+﻿Function Get-ListeningTCPConnections
 {
 	[cmdletbinding()]
 	Param (
