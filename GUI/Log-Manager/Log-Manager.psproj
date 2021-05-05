@@ -1,0 +1,11 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>3729e6b5-2ab8-4e3f-99b8-59496a20fe55</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="1">.gitignore</File>
+    <File Build="2">config.xml</File>
+  </Files>
+</Project>
